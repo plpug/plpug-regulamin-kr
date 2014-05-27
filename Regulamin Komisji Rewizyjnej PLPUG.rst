@@ -4,7 +4,7 @@
 
 § 1.
 
-#. Komisja Rewizyjna jest organem kontrolnym, działającym w imieniu i z upoważnienia Walnego Zebrania Członków Stowarzyszenia Polskiej Grupy Użytkowników Pythona
+Komisja Rewizyjna jest organem kontrolnym, działającym w imieniu i z upoważnienia Walnego Zebrania Członków Stowarzyszenia Polskiej Grupy Użytkowników Pythona
 
 § 2.
 
