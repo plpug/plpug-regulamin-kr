@@ -4,34 +4,28 @@
 
 § 1.
 
-#. Komisja Rewizyjna jest jedną z władz Stowarzyszenia powołaną do sprawowania całokształtu kontroli nad jego działalnością ze szczególnym uwzględnieniem gospodarki finansowej.
-#. Komisja Rewizyjna działa w oparciu o Statut Stowarzyszenia oraz uchwalony przez Walne Zebranie Członków regulamin i uchwały Walnego Zebrania Członków
+Komisja Rewizyjna jest organem kontrolnym, działającym w imieniu i z upoważnienia Walnego Zebrania Członków Stowarzyszenia Polskiej Grupy Użytkowników Pythona
 
 § 2.
 
-#. Komisja Rewizyjna jest wybierana przez Walne Zebranie Członków na 2-letni okres kadencji i składa się przynajmniej z trzech członków, którzy na pierwszym posiedzeniu wybierają ze swego grona przewodniczącego, zastępcę przewodniczącego oraz sekretarza.
-#. Członek Komisji Rewizyjnej nie może pełnić innych funkcji we władzach Stowarzyszenia.
+Skład oraz sposób wyboru Komisji Rewizyjnej określa Statut.
 
 § 3
 
-Członkowie Komisji Rewizyjnej uczestniczą w posiedzeniach Zarządu z głosem doradczym.
+W przypadku zmniejszenia się liczby członków poniżej 3 osób Komisja Rewizyjna zobowiązana jest do dobrania osób do Komisji na zasadzie wspólnego ustalenia obecnych członków.
+Najbliższe walne zebranie zwyczajne lub zwołane w tym celu walne zebranie nadzwyczajne zatwierdza lub odrzuca dokonane zmiany.
 
 § 4
 
-Komisja Rewizyjna ma prawo żądania od członków władz Stowarzyszenia oraz pracowników Biura pisemnych lub ustnych wyjaśnień dotyczących kontrolowanych spraw.
+Członkowie komisji mogą być odwołani na podstawie uchwały walnego zebrania w przypadku, gdy:
+
+#. nie wywiązują się z obowiązku członka Stowarzyszenia i komisji, 
+#. działają na szkodę Stowarzyszenia. 
+
 
 § 5
 
-#. Obsługę Komisji Rewizyjnej w miarę możliwości i przy zachowaniu stosownych przepisów zapewnia Biuro Zarządu.
-#. Zebrania Komisji organizowane mogą być w różnych miejscach w zależności od potrzeb.
-
-§ 6
-
-Działalność Komisji kończy się z chwilą wyboru nowej Komisji Rewizyjnej przez Walne Zebranie.
-
-§ 7
-
-Do zadań Komisji Rewizyjnej należy:
+Zadania Komisji Rewizyjnej wynikają ze Statutu, a szczegółowo określone są:
 
 #. Przeprowadzanie przynajmniej raz w roku kontroli działalności merytorycznej i finansowej Stowarzyszenia z uwzględnieniem celowości, rzetelności, prawidłowości oraz zgodności z przepisami Statutu Stowarzyszenia i uchwał władz, z wyjątkiem Sądu Koleżeńskiego.
 #. Kontrolowanie przestrzegania zasad prawidłowego gospodarowania funduszami i majątkiem Stowarzyszenia.
@@ -39,10 +33,18 @@ Do zadań Komisji Rewizyjnej należy:
 #. Przedkładanie Zarządowi protokołów pokontrolnych wraz z wnioskami.
 #. Występowanie z żądaniem zwołania Nadzwyczajnego Walnego Zebrania Członków w razie stwierdzenia niewywiązywania się przez Zarząd z jego statutowych obowiązków, a także prawo żądania zwołania zebrania Zarządu w sprawach nie cierpiących zwłoki.
 
+§ 6
+
+Komisja rewizyjna wykonuje swoje czynności na posiedzeniach oraz przez swoich członków, którym zleca wykonywanie powierzonych zadań.
+
+§ 7
+
+Posiedzenia Komisji zwołuje przewodniczący, nie rzadziej, niż dwa razy w roku oraz na każde żądanie dwóch członków komisji. O terminie posiedzenia członkowie komisji winni być powiadomieni przynajmniej dwa tygodnie wcześniej.
+
+
 § 8
 
-#. Zebrania Komisji zwołuje przewodniczący bądź osoba przez niego upoważniona.
-#. W zebraniach mogą brać udział osoby zaproszone przez przewodniczącego Komisji Rewizyjnej.
+W posiedzeniach Komisji mogą brać udział osoby zaproszone przez Przewodniczącego.
 
 § 9
 
@@ -52,18 +54,39 @@ Członkom Komisji przysługuje zwrot kosztów przejazdu, a także wydatków poni
 
 Komisja Rewizyjna przy wykonywaniu swoich kontrolnych funkcji, w przypadku wyjątkowo skomplikowanej kwestii, może skorzystać z usług specjalisty z danej dziedziny wiedzy, również spoza Stowarzyszenia
 
-§ 11
-
-#. Uchwały Komisji zapadają większością głosów przy obecności co najmniej trzech członków.
-#. W przypadku równej liczby głosów „za” i „przeciw” decyduje glos przewodniczącego Komisji.
-#. W uzasadnionych nie cierpiących zwłoki przypadkach głosowanie może się odbyć w drodze ustalenia telefonicznego bądź korespondencyjnego.
-
 § 12
 
-#. Z zebrań Komisji sporządzony jest protokół według ogólnie przyjętych zasad.
-#. Komisja prowadzi rejestr swoich uchwał i wniosków.
-#. Za prawidłowość dokumentacji odpowiada sekretarz.
+W celu wykonania swych statutowych zadań komisja ma prawo żądać od zarządu, członków i pracowników Stowarzyszenia wszelkich sprawozdań i wyjaśnień, przeglądać księgi, dokumenty i sprawdzać stan majątku Stowarzyszenia.
 
 § 13
 
-Regulamin Komisji Rewizyjnej wchodzi w życie z chwilą jego uchwalenia przez Walne Zebranie Członków.
+Zalecenia komisji rewizyjnej mogą być przekazane zarządowi w formie ustnej, w czasie obrad zarządu lub na piśmie. Fakt ten winien być odnotowany w dokumentacji komisji.
+
+§ 14
+
+Z czynności kontrolnych komisja sporządza protokół zawierający:
+#. datę i przedmiot kontroli,
+#. nazwiska osób przeprowadzających kontrolę oraz ewentualnie osób obecnych podczas kontroli, 
+#. wykaz dokumentów, na podstawie których wydano ocenę i wynik kontroli.
+
+§ 15
+
+Z każdego posiedzenia i czynności komisji rewizyjnej powinien być sporządzony protokół zawierający podjęte decyzje, uchwały i ustalenia. Protokół podpisują wszyscy obecni członkowie komisji.
+
+§ 16
+
+#. Uchwały Komisji zapadają większością głosów przy obecności co najmniej trzech członków.
+#. W przypadku równej liczby głosów „za” i „przeciw” decyduje głos przewodniczącego Komisji.
+#. W uzasadnionych nie cierpiących zwłoki przypadkach głosowanie może się odbyć w drodze ustalenia telefonicznego, korespondencyjnego bądź za pomocą dowolnego środka komunikacji zdalnej.
+
+§ 17
+
+#. Komisja prowadzi rejestr swoich uchwał i wniosków.
+#. Za prawidłowość dokumentacji odpowiada Sekretarz.
+
+§ 18
+
+Regulamin Komisji Rewizyjnej wchodzi w życie z chwilą jego uchwalenia przez nią samą.
+
+
+
